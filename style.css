@@ -8,7 +8,7 @@
 
 body {
   font: normal 16px/1.5 "Helvetica Neue", sans-serif;
-  background: #e4ebeb;
+  background: #b3e7e7;
   color: #fff;
   overflow-x: hidden;
   padding-bottom: 50px;
@@ -19,8 +19,8 @@ body {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .introduction {
-  background: #1c1a1a;
-  padding: 70px 0;
+  background: rgb(9, 9, 9);
+  padding: 40px 0;
 }
 
 .container {
@@ -31,7 +31,7 @@ body {
 }
 
 h1 {
-  font-size: 4.5rem;
+  font-size: 4.3rem;
 }
 
 
@@ -39,7 +39,7 @@ h1 {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 .timeline ul {
-  background: #eaedef;
+  background: #b3e7e7;
   padding: 50px 0;
 }
 
@@ -49,7 +49,7 @@ h1 {
   width: 6px;
   margin: 0 auto;
   padding-top: 50px;
-  background: rgb(29, 27, 27);
+  background: rgb(9, 9, 9);
 }
 
 .timeline ul li::after {
@@ -70,7 +70,7 @@ h1 {
   bottom: 0;
   width: 400px;
   padding: 15px;
-  background: #121111;
+  background: rgb(9, 9, 9);
 }
 
 .timeline ul li div::before {
@@ -89,7 +89,7 @@ h1 {
 .timeline ul li:nth-child(odd) div::before {
   left: -15px;
   border-width: 8px 16px 8px 0;
-  border-color: transparent #131313 transparent transparent;
+  border-color: transparent rgb(9, 9, 9) transparent transparent;
 }
 
 .timeline ul li:nth-child(even) div {
@@ -110,6 +110,33 @@ time {
 }
 
 
-/* EFFECTS
+/* NAVBAR
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+.navbar{
+    background-color: rgb(9, 9, 9);
+    overflow: visible;
+    padding: 5px;
+}
+
+
+.list-item{
+    display: inline;
+    padding: 0.5rem 0.5rem;
+    font-weight: bold;
+    text-align: right;
+    float: right;
+}
+
+.list-item-left{
+    display: inline;
+    padding: 0.5rem 0.5rem;
+    font-weight: bold;
+}
+
+.link {
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    color: azure;
+}
 
