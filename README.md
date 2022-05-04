@@ -5,4 +5,4 @@ Check out the Project here - https://sushrutmishra27.github.io/Timeline-Story-HT
 I am taking inspiration from the following link -
 https://mikkegoes.com/javascript-projects-for-beginners/#javascript-timeline
 
-This project creates a super simple yet elegant Vertical Timeline that depicts a story! Life-story of Sushrut Mishra. Oh, the story may be boring, but the project isn't.🙂😁⚠️
+This project creates a super simple yet elegant Vertical Timeline that depicts a story! Life-story of Sushrut Mishra. Oh, the story may be boring, but the project isn't.🙂😁
